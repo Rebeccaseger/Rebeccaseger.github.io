@@ -1,0 +1,27 @@
+h1{
+  font-size: 50px;
+  font-style: italic;
+  margin: 50px;
+  border-bottom: 5px solid;
+  text-align: center;
+}
+
+p{
+  padding: 10px;
+  margin: 20px;
+}
+
+.travelclass {
+  width: 100%;
+  height: auto;
+}
+
+h2{
+  font-family:'Rouge Script', cursive;
+  font-size: 30px;
+}
+
+img{
+  border-radius: 25px;
+  border: 2px solid black;
+}
