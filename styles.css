@@ -11,17 +11,148 @@ p{
   margin: 20px;
 }
 
-.travelclass {
-  width: 100%;
-  height: auto;
-}
-
 h2{
   font-family:'Rouge Script', cursive;
   font-size: 30px;
 }
 
-img{
-  border-radius: 25px;
-  border: 2px solid black;
+img {
+  border: 10px solid white;
+}
+
+.travelclass img {
+  width: 500px;
+}
+
+.fashionclass img {
+  width: 471px;
+}
+
+.containerfashion {
+ display: flex;
+ justify-content: center;
+ align-items:
+}
+
+.travelclass {
+  image-orientation: center;
+}
+
+.containertravel{
+  display: flex;
+  justify-content: center;
+  align-items:
+}
+
+.texttravel {
+  text-align: center;
+  line-height: 200%;
+}
+
+.fashiontext {
+  text-align: center;
+  line-height: 200%;
+}
+
+.container{
+display: flex;
+justify-content: space-evenly;
+width: 70%;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+.container2 {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+
+
+.foodtext {
+  text-align: center;
+  line-height: 200%;
+}
+
+.box {
+  width: 30%;
+}
+
+.foodclass img {
+  width: 90%;
+}
+
+.readingtips img {
+  width: 90%;
+}
+
+.statementearrings img{
+  width: 90%;
+}
+
+.earingstext {
+  text-align: center;
+}
+
+
+
+.readingtext {
+  text-align: center;
+  line-height: 200%;
+}
+
+.containerfood {
+  display: flex;
+  justify-content: center;
+}
+
+.outer_container {
+  display: flex;
+  align-items: top;
+}
+
+.hawaiibild {
+  width: 500px;
+  margin: 20px;
+}
+
+.Hawaiiclass {
+  width: 400px;
+  margin: 40px;
+  line-height: 200%;
+}
+
+.wrapper3 {
+  display: flex;
+  justify-content: center;
+}
+
+.container3 {
+  display:flex;
+  justify-content: center;
+  width: 120%;
+  border: 10px solid white;
+}
+
+.outer_container1 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.textbild {
+  width: 500px;
+  margin: 20px;
+}
+
+.Quoteclass {
+  width: 400px;
+  margin: 40px;
+  line-height: 200%;
+}
+
+.quotetext {
+  justify-content: center;
 }
