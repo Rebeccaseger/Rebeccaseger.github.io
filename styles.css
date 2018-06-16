@@ -157,6 +157,14 @@ width: 70%;
   justify-content: center;
 }
 
+.Instagramclass {
+  font-size: 40px;
+  font-family: 'Bad Script', cursive;
+  text-align: center;
+  text-decoration: none;
+}
+
+
 @media (max-width: 600px) {
   .container {
     flex-direction: column;
