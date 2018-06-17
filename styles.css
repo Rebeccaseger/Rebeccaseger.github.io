@@ -187,6 +187,10 @@ background-color: #ffe6e6;
   .container2 {
     flex-direction: column;
   }
+
+  .outer_container1 {
+    flex-direction: column;
+  }
   .box {
     width: 100%;
   }
