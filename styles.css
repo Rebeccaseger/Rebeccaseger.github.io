@@ -1,3 +1,7 @@
+body {
+background-color: #ffe6e6;
+}
+
 h1{
   font-size: 50px;
   font-family: 'Bad Script' , cursive;
@@ -14,6 +18,10 @@ p{
 h2{
   font-family:'Rouge Script', cursive;
   font-size: 30px;
+}
+
+.undertext {
+  text-align: center;
 }
 
 img {
@@ -58,6 +66,7 @@ img {
 display: flex;
 justify-content: space-evenly;
 width: 70%;
+background-color: #ffe6e6;
 }
 
 .wrapper {
@@ -71,7 +80,6 @@ width: 70%;
 }
 
 
-
 .foodtext {
   text-align: center;
   line-height: 200%;
@@ -79,6 +87,7 @@ width: 70%;
 
 .box {
   width: 30%;
+  background-color: #ffe6e6;
 }
 
 .foodclass img {
@@ -161,9 +170,16 @@ width: 70%;
   font-size: 40px;
   font-family: 'Bad Script', cursive;
   text-align: center;
-  text-decoration: none;
+  color: white;
 }
 
+.container4 {
+  display: flex;
+  background-color: #ffe6e6;
+  justify-content: space-evenly;
+  border: none;
+  width: 100%;
+}
 
 @media (max-width: 600px) {
   .container {
