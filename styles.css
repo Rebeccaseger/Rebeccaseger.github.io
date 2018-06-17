@@ -39,7 +39,7 @@ img {
 .containerfashion {
  display: flex;
  justify-content: center;
- margin: 10px;
+ margin: 20px;
 }
 
 .travelclass {
@@ -49,7 +49,7 @@ img {
 .containertravel{
   display: flex;
   justify-content: center;
-  margin: 10px;
+  margin: 20px;
 }
 
 .texttravel {
